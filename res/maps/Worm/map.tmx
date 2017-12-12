@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="22" height="15" tilewidth="48" tileheight="48" nextobjectid="1">
+ <tileset firstgid="1" name="maptiles" tilewidth="48" tileheight="48">
+  <image source="../../images/tiles/maptiles.png" width="288" height="144"/>
+ </tileset>
+ <layer name="Background" width="22" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NiYGBgGsWjeBSP4lGMEwMAmUPlHSgFAAA=
+  </data>
+ </layer>
+ <layer name="Weg" width="22" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgoAww4hFHx8TIETIXnzp0PcPFXFzhhC98SXEbseoHs7m4MC592NQRG4f43IONjc9cfG6n1FxiAK4woaa5xKonFg8EAAAoF1X5KAUAAA==
+  </data>
+ </layer>
+ <layer name="Eingänge" width="22" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgoAxw4RBnp9DcUTAKRsEoGCwAADLxno8oBQAA
+  </data>
+ </layer>
+</map>
