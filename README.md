@@ -1,5 +1,5 @@
 # NeonTD
-A challenging 2D Tower Defense game made in the Slick2D engine.
+A challenging 2D Tower Defense game made in the Slick2D engine.  
 You can find a prebuilt binary, ready to play, in the **release** section!
 
 ## Introduction
