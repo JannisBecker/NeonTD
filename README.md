@@ -56,7 +56,7 @@ next wave earlier, but you'll have to deal with the increase of enemies ;)
 * **\<BaseHealthAir>:** Same thing for air enemies
 * **\<BaseHealthBoss>:** Again, same thing for bosses
 * **\<HealthMultiplier>:** This is a factor for the enemies' total health point increase by every wave. The 
-formular for an enemy's health is as follows: hp = <BaseHealth> + wave * <HealthMultiplier>
+formular for an enemy's health is as follows: hp = **\<BaseHealth>** + wave * **\<HealthMultiplier>**
 * **\<Spawns>:** This is an array of spawn points, defined as follows
  	* **\<Spawn>:** A single spawn point entry
   		* **\<PosX>:** The x-axis coordinate for the spawn point
